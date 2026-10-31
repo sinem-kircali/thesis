@@ -1,0 +1,4 @@
+scenario,n_orders,n_dissatisfied,dissatisfaction_rate
+Observed analytical sample,95830,12276,0.12810184702076594
+Lower bound: excluded orders all satisfied,98673,12276,0.12441093308199812
+Upper bound: excluded orders all dissatisfied,98673,15119,0.1532232728304602

@@ -1,0 +1,7 @@
+category_group,modal_topic,modal_topic_id,modal_topic_label,delivery_is_modal
+clothing_fashion,T1,1,"Delivery Delay, Non-Receipt and Communication",True
+electronics,T1,1,"Delivery Delay, Non-Receipt and Communication",True
+furniture_home,T1,1,"Delivery Delay, Non-Receipt and Communication",True
+health_beauty,T1,1,"Delivery Delay, Non-Receipt and Communication",True
+other,T1,1,"Delivery Delay, Non-Receipt and Communication",True
+sports_leisure,T1,1,"Delivery Delay, Non-Receipt and Communication",True

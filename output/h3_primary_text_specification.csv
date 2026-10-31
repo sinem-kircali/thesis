@@ -1,0 +1,2 @@
+n_dissatisfied_written_reviews,n_lda_eligible_reviews,document_retention,representation,lda_input,min_document_frequency,max_document_share,minimum_document_length_filter,duplicates_removed,primary_bigrams,primary_stemming,artifact_stopwords,vocabulary_size
+9157,9118,0.9957409631975538,unstemmed Portuguese unigrams,raw token counts / bag-of-words,10,0.6,none,False,False,False,"baratheon,lannister,stark,targaryen",1081

@@ -1,0 +1,2 @@
+candidate_k_min,candidate_k_max,n_seeds,selection_criterion,selected_k,selected_mean_coherence,selected_sd_coherence,selected_mean_topic_stability,stability_top_words,lda_passes,lda_iterations
+2,12,50,highest seed-averaged c_v coherence,3,0.4022523716417373,0.032461746919404,0.40889595203091234,15,10,200

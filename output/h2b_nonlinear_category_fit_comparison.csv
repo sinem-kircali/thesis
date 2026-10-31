@@ -1,0 +1,3 @@
+model,n_parameters,log_likelihood,aic
+Nonlinear H2 without category interactions,69,-30521.481174382574,61180.96234876515
+Nonlinear H2 with category interactions,99,-30488.131691208844,61174.26338241769

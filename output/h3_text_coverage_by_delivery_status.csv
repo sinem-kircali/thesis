@@ -1,0 +1,4 @@
+h3_delivery_status,n_dissatisfied,n_with_text,text_coverage
+early,8135,6369,0.7829133374308543
+late,3982,2742,0.688598694123556
+on_time,159,117,0.7358490566037735

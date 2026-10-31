@@ -1,0 +1,7 @@
+category_group,n_documents,mean_tokens,median_tokens,empty_documents
+clothing_fashion,800,10.04375,9.0,0
+electronics,1750,10.820571428571428,10.0,1
+furniture_home,3130,10.081469648562301,9.0,3
+health_beauty,1235,10.492307692307692,9.0,0
+other,877,10.323831242873432,9.0,0
+sports_leisure,1436,10.435236768802229,9.0,0
