@@ -1,0 +1,2 @@
+n_orders,n_categories,reference_category,n_timing_basis_terms,expected_category_timing_interactions,design_columns,design_rank,full_rank,n_small_cells_lt30,n_single_outcome_cells
+95829,6,furniture_home,6,30,99,99,True,0,0

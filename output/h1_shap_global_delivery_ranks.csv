@@ -1,0 +1,3 @@
+rank,feature,mean_abs_shap
+1,delivery_delay_days,0.1056528598266544
+4,estimated_delivery_days,0.015308363987280044

@@ -1,0 +1,4 @@
+model,final_training_cv_auc,final_params
+Logistic Regression,0.7135167800029569,"{'C': 1.0, 'class_weight': 'balanced', 'penalty': 'l2', 'solver': 'lbfgs'}"
+Random Forest,0.7373847488181235,"{'n_estimators': 1000, 'max_depth': None, 'min_samples_leaf': 8, 'class_weight': 'balanced'}"
+XGBoost,0.7373676843101834,"{'n_estimators': 200, 'max_depth': 6, 'learning_rate': 0.05, 'scale_pos_weight': 1.0}"

@@ -1,0 +1,2 @@
+n_reviews,mean_words,median_words,p25_words,p75_words,p90_words,p95_words,max_words,share_one_word,share_two_words_or_less
+9228,17.45947117468574,15.0,8.0,26.0,33.0,36.0,45,0.00964456003467707,0.026441265713047248

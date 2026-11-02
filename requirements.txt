@@ -1,0 +1,8 @@
+# Libraries used by the published notebook parts
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+shap
+jupyter

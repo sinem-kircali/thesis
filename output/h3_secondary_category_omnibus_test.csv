@@ -1,0 +1,2 @@
+test,topics,n_documents,n_categories,pseudo_F,n_permutations,permutation_p,R2
+Permutation test of secondary-topic composition in CLR space,"T0,T2,T3",9118,6,27.777274033874257,5000,0.0001999600079984003,0.015013304089133296

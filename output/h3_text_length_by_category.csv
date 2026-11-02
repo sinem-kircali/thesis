@@ -1,0 +1,7 @@
+category_group,n_text_reviews,mean_words,median_words,p90_words
+clothing_fashion,800,16.97625,15.0,33.0
+electronics,1750,18.24457142857143,17.0,34.0
+furniture_home,3130,16.952076677316295,15.0,33.0
+health_beauty,1235,17.74412955465587,16.0,34.0
+other,877,17.442417331812997,15.0,34.0
+sports_leisure,1436,17.643454038997213,15.0,34.0

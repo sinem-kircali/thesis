@@ -1,0 +1,7 @@
+category_group,n_train,n_test,n_orders_total,n_dissatisfied_total,auc_roc,top1_feature,top2_feature,top3_feature,delivery_delay_rank,delivery_delay_mean_abs_shap,delivery_delay_is_top1,estimated_delivery_rank,estimated_delivery_mean_abs_shap,explanation_model
+clothing_fashion,6967,1787,8754,1072,0.7276305213866369,delivery_delay_days,freight_value,order_price,1,0.09299285554344892,True,8,0.012836967122542927,Random Forest
+electronics,13317,3274,16591,2273,0.6979757094352408,delivery_delay_days,freight_value,payment_value,1,0.08217639265151618,True,8,0.010404797833695174,Random Forest
+furniture_home,22997,5822,28819,4127,0.7416289462317677,delivery_delay_days,freight_value,payment_value,1,0.08574580491526348,True,4,0.016431211903527955,Random Forest
+health_beauty,11460,2934,14394,1701,0.7484831381402568,delivery_delay_days,freight_value,freight_ratio,1,0.11235919025683885,True,5,0.015004281510486333,Random Forest
+other,7883,2007,9890,1161,0.7519740151796847,delivery_delay_days,freight_value,product_description_lenght,1,0.09202627367161603,True,7,0.01399220310064955,Random Forest
+sports_leisure,14040,3342,17382,1942,0.7892564839401985,delivery_delay_days,freight_value,product_description_lenght,1,0.10175477488998928,True,8,0.01130112844395612,Random Forest

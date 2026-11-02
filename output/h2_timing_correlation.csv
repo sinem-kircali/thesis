@@ -1,0 +1,4 @@
+,delay_positive,delay_negative,estimated_delivery_days
+delay_positive,1.0,-0.24249642035307428,0.008338238848927478
+delay_negative,-0.24249642035307428,1.0,0.6430677910700596
+estimated_delivery_days,0.008338238848927478,0.6430677910700596,1.0

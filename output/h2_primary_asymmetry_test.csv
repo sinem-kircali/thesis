@@ -1,0 +1,2 @@
+beta_late,beta_early,beta_sum_symmetry_contrast,se_symmetry_contrast,wald_chi2_1df,p_symmetry,raw_coefficient_magnitude_ratio,symmetry_rejected_5pct,late_effect_larger_in_magnitude
+0.13101076613320567,-0.07640788568666076,0.054602880446544905,0.012360883449424903,19.513361218954095,9.989848000152581e-06,1.7146236275986555,True,True

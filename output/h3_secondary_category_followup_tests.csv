@@ -1,0 +1,3 @@
+topic_id,topic_label,observed_F,permutation_p,holm_p
+0,"Product Quality, Mismatch and Defects",26.45396668916427,0.0001999600079984003,0.0003999200159968006
+2,Incomplete Order and Missing Units,26.45396668916426,0.0001999600079984003,0.0003999200159968006

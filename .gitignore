@@ -1,0 +1,22 @@
+# Raw Olist data (download from Kaggle, see README)
+*.csv
+!output/*.csv
+data/
+
+# Fitted models and large intermediate files
+output/h3_lda_candidate_models*/
+*.model
+*.npy
+*.state
+*.id2word
+*.gensim
+
+# Python / Jupyter / OS
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+
+# Intermediate files written next to the raw data
+orders_merged.csv
+orders_features.csv
